@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es6", // You can set this to es2017 or later
+    "lib": ["es2017", "dom"], // Add the required libraries
+    "module": "commonjs",
+    "strict": true
+  }
+}
